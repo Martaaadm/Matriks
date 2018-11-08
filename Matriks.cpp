@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	int mtrk[100][100];
+	int mtrk[50][50];
 	int n;
 	cout<<"Masukan panjang matriks : ";
 	cin>>n;
